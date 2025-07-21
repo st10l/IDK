@@ -1,0 +1,11 @@
+{
+  "name": "My CloudStream Plugins",
+  "plugins": [
+    {
+      "name": "IDK",
+      "url": "https://raw.githubusercontent.com/st10l/IDK/main/IDK.cs3",
+      "description": "IDK",
+      "version": "1.0.0"
+    }
+  ]
+}
